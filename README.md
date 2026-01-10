@@ -32,7 +32,7 @@ mv ~/.cache/nvim ~/.cache/nvim.bak
 Clone your personal config directly into the standard Neovim directory:
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git) ~/.config/nvim
+git clone [git@github.com:igor17400/my-lazy-vim.git](git@github.com:igor17400/my-lazy-vim.git) ~/.config/nvim
 
 ```
 
