@@ -1,0 +1,13 @@
+tt.*
+.tests
+doc/tags
+debug
+.repro
+foo.*
+*.log
+data
+.undo/
+.session/
+.netrwhist
+lazy-lock.json
+/lazy-deps.json
